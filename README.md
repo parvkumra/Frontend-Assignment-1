@@ -22,11 +22,11 @@ A responsive movie browser built using Next.js 14 (App Router), Tailwind CSS, an
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
+
 
 ```bash
 git clone https://github.com/your-username/movie-app.git
-cd movie-app
+
 install dependencies
 npm i
 npm run dev
